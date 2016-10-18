@@ -1,0 +1,14 @@
+{
+  "name": "node-pdf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:mhasan3/node-pdf.git",
+    "type": "git"
+  },
+  "author": "Mahmudul Hasan <mahmudul69@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
